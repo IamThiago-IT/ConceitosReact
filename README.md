@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="to.do" title="to.do" src="https://github.com/FelipeBrenner/ignite-reactjs-github-explorer/raw/master/.github/cover-reactjs.png" /> <!--.github/logo.png-->
+  <img alt="to.do" title="to.do" src=".github/logo.png" /> 
 </h1>
 
 <p align="center">
